@@ -1,0 +1,54 @@
+browser 1
+browser 2
+terminal
+openscad
+kicad
+writer
+calc
+
+reload awesome
+quit awesome
+show keybindings
+show main menu
+lua execute prompt
+
+focus next cilent by index
+focus prev cilent by index
+move to master
+(un)maximize vertically
+restore minimized
+toggle floating
+close client
+swap with next client by index (not sure how exactly it works, but by clicking it once you make the split horisontal, by clicking twice it
+                                swaps places between these two clients)
+swap with prev client by index
+(un)maximize horisontally
+toggle the focus to the recent client
+toggle full screen
+(un)maximize
+minimize
+move to screen
+toggle keep on top
+jump to urgent client
+show the menubar (also has a run prompt)
+
+increase the number of collumns
+decrease the number of collumns
+increase the number of master clients
+decrease the number of master clients
+select next layout
+select prev layout
+increase master width factor
+decrease master width factor
+
+focus the next screen
+focus the prev screen
+
+move focused client to tag {1..9}
+view {1..9} tag
+view next tag
+view prev tag
+view recent tag
+
+wifi on
+wifi off
